@@ -1,0 +1,13 @@
+class Game:
+def actions (self , state ):
+”””Return a collection of the allowable moves from this state .”””
+raise NotImplementedError
+def result (self , state , move ):
+”””Return the state that results from making a move from a state .”””
+raise NotImplementedError
+def is terminal (self , state ):
+”””Return True if this is a final state for the game.”””
+return not self. actions (state)
+def utility (self , state , player ):
+”””Return the value of this final state to player.”””
+raise NotImplementedError
