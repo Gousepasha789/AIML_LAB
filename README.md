@@ -12,4 +12,4 @@ Assignment_04
 https://github.com/Gousepasha789/AIML_LAB/blob/main/Assignment_04.ipynb
 
 Assignment_05
-https://github.com/Gousepasha789/AIML_LAB/blob/main/Assignment_5.ipynb
+https://github.com/Gousepasha789/AIML_LAB/blob/main/Assignment_05.ipynb
