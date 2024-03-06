@@ -1,6 +1,6 @@
 # AIML_LAB
 Assignment_01
-
+https://github.com/Gousepasha789/AIML_LAB/blob/main/Assignment_01.ipynb
 
 Assignment_02
 https://github.com/Gousepasha789/AIML_LAB/blob/main/Assignment_2.ipynb
