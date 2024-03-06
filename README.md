@@ -3,7 +3,7 @@ Assignment_01
 
 
 Assignment_02
-
+https://github.com/Gousepasha789/AIML_LAB/blob/main/Assignment_2.ipynb
 
 Assignment_03
 
