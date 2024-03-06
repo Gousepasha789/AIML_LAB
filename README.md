@@ -13,3 +13,6 @@ https://github.com/Gousepasha789/AIML_LAB/blob/main/Assignment_04.ipynb
 
 Assignment_05
 https://github.com/Gousepasha789/AIML_LAB/blob/main/Assignment_05.ipynb
+
+Assignment_06
+https://github.com/Gousepasha789/AIML_LAB/blob/main/Assignment_06.ipynb
