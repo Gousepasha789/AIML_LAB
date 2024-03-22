@@ -21,7 +21,9 @@ Assignment_07
 https://github.com/Gousepasha789/AIML_LAB/blob/main/Assignment_07.ipynb
 
 Assignment_08
+https://github.com/Gousepasha789/AIML_LAB/blob/main/Assignment_08.ipynb
 
 Assignment_09
+
 
 Assignment_10
