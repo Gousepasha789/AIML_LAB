@@ -24,6 +24,6 @@ Assignment_08
 https://github.com/Gousepasha789/AIML_LAB/blob/main/Assignment_08.ipynb
 
 Assignment_09
-
+https://github.com/Gousepasha789/AIML_LAB/blob/main/Assignment_09.ipynb
 
 Assignment_10
